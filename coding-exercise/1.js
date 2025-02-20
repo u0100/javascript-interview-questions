@@ -3,4 +3,11 @@ const object = {
      age: 34
 };
 
-const object = Object();
+const object_1 = Object();
+
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+}
+let object = new Person("Sudheer");
