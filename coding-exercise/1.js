@@ -1,4 +1,4 @@
-var object = {
+const object = {
      name: "Sudheer",
      age: 34
 };
